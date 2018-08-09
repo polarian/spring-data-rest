@@ -1,0 +1,1 @@
+INSERT INTO Book(id, title, author, pages) VALUES (1, 'clean code', 'robert c. martine', 587)
